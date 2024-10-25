@@ -19,16 +19,13 @@ This GitHub repository was put together by Philip Yao, Chris Kim, and Jessica Li
 - ds4002-project-2: Root Directory, Contains the following folders and files:
 
 - ds4002-project-2/DATA: 
-cleaned precipitaiton data.csv,          cville monthly precip total v2.csv,      cville_monthly_precip_total.csv, appendix.pdf
+cleaned precipitaiton data.csv, cville monthly precip total v2.csv, cville_monthly_precip_total.csv, appendix.pdf
 
 - ds4002-project-2/SCRIPTS: 
-code.ipynb,                              code-2.ipynb
+code.ipynb, code-2.ipynb
 
 - ds4002-project-2/OUTPUT: 
-Annual Precipitation by Year.png,                Precipitation Month.png,                         SARIMA Plot Diagnostics.png,
-Autocorrelation.png,                             SARIMA Model Evaluation.png,                     Seasonality Checker.png,
-Density and Residuals.png,                       SARIMA Model Forecast.png,                       Total Precipitation by Month from 1901.png,
-Partial Autocorrelation.png,                     SARIMA Model Future Forecast Only.png
+Annual Precipitation by Year.png, Precipitation Month.png, SARIMA Plot Diagnostics.png, Autocorrelation.png, SARIMA Model Evaluation.png, Seasonality Checker.png, Density and Residuals.png, SARIMA Model Forecast.png, Total Precipitation by Month from 1901.png, Partial Autocorrelation.png, SARIMA Model Future Forecast Only.png
 
 ### Section 3: Instructions for Reproducability
 
