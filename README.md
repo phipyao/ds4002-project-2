@@ -19,7 +19,7 @@ This GitHub repository was put together by Philip Yao, Chris Kim, and Jessica Li
 - ds4002-project-2: Root Directory, Contains the following folders and files:
 
 - ds4002-project-2/DATA: 
-cleaned precipitaiton data.csv,          cville monthly precip total v2.csv,      cville_monthly_precip_total.csv
+cleaned precipitaiton data.csv,          cville monthly precip total v2.csv,      cville_monthly_precip_total.csv, appendix.pdf
 
 - ds4002-project-2/SCRIPTS: 
 code.ipynb,                              code-2.ipynb
