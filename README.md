@@ -38,7 +38,7 @@ Partial Autocorrelation.png,                     SARIMA Model Future Forecast On
 
 - In the terminal, pip install numpy, pandas, matplotlib, seaborn, sklearn, statsmodels
 
-- If you are running on an m1 mac, you need to first install anaconda and conda, and then run this code: conda install conda-forge::statsmodels
+- If you are running on an m1 mac, you need to first install anaconda and conda, and then run this in the terminal: conda install conda-forge::statsmodels
 
 - Install the jupyter extension in VSCode
 
@@ -46,4 +46,4 @@ Partial Autocorrelation.png,                     SARIMA Model Future Forecast On
 
 ###References:
 
-[1] “Email Spam Detection 98% Accuracy,” kaggle.com. https://www.kaggle.com/code/mfaisalqure
+[1] N. US Department of Commerce, “Climate,” www.weather.gov. https://www.weather.gov/wrh/Climate?wfo=lwx
