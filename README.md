@@ -44,6 +44,6 @@ Partial Autocorrelation.png,                     SARIMA Model Future Forecast On
 
 - Run the code-2.ipynb file
 
-###References:
+### References:
 
 [1] N. US Department of Commerce, “Climate,” www.weather.gov. https://www.weather.gov/wrh/Climate?wfo=lwx
