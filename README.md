@@ -19,27 +19,27 @@ This GitHub repository was put together by Philip Yao, Chris Kim, and Jessica Li
 - ds4002-project-2: Root Directory, Contains the following folders and files:
 
 - ds4002-project-2/DATA: 
-cleaned precipitaiton data.csv, cville monthly precip total v2.csv, cville_monthly_precip_total.csv, Appendix.pdf
+contains original dataset, cleaned dataset, and appendix
 
 - ds4002-project-2/SCRIPTS: 
-code.ipynb, code-2.ipynb
+contains code used to clean and analyze precipitation data
 
 - ds4002-project-2/OUTPUT: 
-Annual Precipitation by Year.png, Precipitation Month.png, SARIMA Plot Diagnostics.png, Autocorrelation.png, SARIMA Model Evaluation.png, Seasonality Checker.png, Density and Residuals.png, SARIMA Model Forecast.png, Total Precipitation by Month from 1901.png, Partial Autocorrelation.png, SARIMA Model Future Forecast Only.png
+contains EDA plots and forecast outputs
 
 ### Section 3: Instructions for Reproducability
 
 - Install VS Code and Python Version 3.12.4
 
-- Clone the git repository
+- Clone the git repository if working on google colab
 
-- In the terminal, pip install numpy, pandas, matplotlib, seaborn, sklearn, statsmodels
+- In the terminal, pip install numpy, pandas, matplotlib, seaborn, sklearn, statsmodels; these are the necessary packages to perform the analysis
 
 - If you are running on an m1 mac, you need to first install anaconda and conda, and then run this in the terminal: conda install conda-forge::statsmodels
 
 - Install the jupyter extension in VSCode
 
-- Run the code-2.ipynb file
+- Run the code-2.ipynb file to perform the time series analysis
 
 ### References:
 
